@@ -1,5 +1,3 @@
-# Vue 3 + TypeScript + Vite
+# generate-layout-vue
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+主要服务于dynamic-node-vue项目生成json，用于布局理解使用。此项目可进一步扩展成管理系统，用于和后端对接。
